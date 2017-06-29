@@ -1,5 +1,5 @@
 {
-    "name": "apy/datagrid-bundle",
+    "name": "netinteractive/datagrid-bundle",
     "description": "Symfony Datagrid Bundle",
     "keywords": ["Symfony", "datagrid"],
     "homepage": "https://github.com/apy/APYDataGridBundle",
